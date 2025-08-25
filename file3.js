@@ -1,0 +1,5 @@
+# Dummy credentials for testing
+API_KEY=AKIA1234567890EXAMPLE
+SECRET_TOKEN=sk_test_51H8u2DUMMYEXAMPLE
+DB_PASSWORD=mySuperSecretPassword123!
+
